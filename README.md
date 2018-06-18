@@ -4,7 +4,7 @@ Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso c
 
 ## Nuestra máquina virtual.
 
-Para facilitar la instalación y configuración tanto de Jupyter como del kernel de Bash se recomienda descargar nuestra VM de [Virtualbox](https://virtualbox.org) la cual puede ser descargada desde https://cloudevel.com/downloads/base/view. Una vez que se ejecute la VM podrá acceder a un servidor de Jupyter totalmente funcional ingresando desde el navegador de su equipo en la dirección ```http:localhost:8999``` con la contraseña ```Jupyter```.
+Para facilitar la instalación y configuración tanto de Jupyter como del kernel de Bash se recomienda descargar nuestra VM de [Virtualbox](https://virtualbox.org) la cual puede ser descargada desde https://cloudevel.com/downloads/base/view. Una vez que se ejecute la VM podrá acceder a un servidor de Jupyter totalmente funcional ingresando desde el navegador de su equipo en la dirección ```http://localhost:8999``` con la contraseña ```Jupyter```.
 
 ## Clonación del repositorio.
 
