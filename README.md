@@ -1,4 +1,4 @@
-# cd301 "Introducción a DevOps".
+# cd401 "Introducción a DevOps".
 
 Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd301 "Introducción a DevOps", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
 
@@ -11,5 +11,5 @@ Para facilitar la instalación y configuración tanto de Jupyter como del kernel
 Para clonar el repositorio en su sitema de archivos local, ejecute desde una terminal:
 
 ``` bash
-git clone https://github.com/Cloudevel/cd301.git
+git clone https://github.com/Cloudevel/cd401.git
 ```
